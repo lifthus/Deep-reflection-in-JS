@@ -1,4 +1,4 @@
-# Deep-reflection-in-JS
+# deep-inside-of-js
 
 This repository contains examples for deep reflection in JavaScript.
 
